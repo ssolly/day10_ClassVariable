@@ -3,7 +3,12 @@ package day10_ClassVariable;
 import java.util.Scanner;
 
 public class Quiz01_Main {
-
+	
+	/*
+ 	 # Up&Down Game
+ 	  - 메인에서 기본 보여지는 화면을 만들고 기능은 메소드로 구현
+ 	  - 기능 : 랜덤값 뽑는 기능, 최고기록 체크, 정답기능, 최고기록 확인
+	 */
 	public static void main(String[] args) {
 		
 		Quiz01 quiz = new Quiz01();
